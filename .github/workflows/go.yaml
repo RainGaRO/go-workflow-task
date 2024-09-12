@@ -1,4 +1,4 @@
-name: golang-pipeline
+name: go-workflow-task
 on: push
 jobs:
   test:
